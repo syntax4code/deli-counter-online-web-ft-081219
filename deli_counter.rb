@@ -1,4 +1,4 @@
-katz_deli = ["Motake_a_number(deli, name)she", "Fayge", "Rivki"]
+katz_deli = ["Fayge", "Rivki"]
 
 
 def line(array) # this was the one I figured out
